@@ -1,1 +1,1 @@
-All my projects with public repositories under this GitHub account are released under copyleft licenses. You are free to use, modify, and distribute the code, provided that any derivative works or modifications are shared under the same licensing terms. By using or contributing to these projects, you agree to uphold the principles of copyleft, ensuring that the freedom to use, modify, and distribute the software remains available to everyone.
+

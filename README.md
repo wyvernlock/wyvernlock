@@ -1,1 +1,3 @@
-<img src="https://i.pinimg.com/736x/1b/2f/91/1b2f91947398ce7de2681d4d78315e82.jpg" alt="s" height="400"/>
+List of my open source projects:
+1. [GithubStalker](https://github.com/nurzyl/github-stalker)
+2. [Goboil](https://github.com/nurzyl/goboil)
